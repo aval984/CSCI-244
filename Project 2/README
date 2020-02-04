@@ -1,4 +1,6 @@
-all files used for the project except for the original timing results because i deleted them by mistake because i put a remove command in my make clean. the threads output file is the only remaining timing file because i reran to get some priority data.
-this program can be run with the run.sh script. it will compile and run the program once for each thread type. it also defines TESTING which will run KNN 10 times.
-it can also be compiled with the Makefile, the Makefile has three options ,two commented out, for each of the thread types.
+all files used for the project except for the original timing results because i deleted them by mistake because i put a remove 
+command in my make clean. the threads output file is the only remaining timing file because i reran to get some priority data.
+this program can be run with the run.sh script. it will compile and run the program once for each thread type. it also defines 
+TESTING which will run KNN 10 times. it can also be compiled with the Makefile, the Makefile has three options ,two commented 
+out, for each of the thread types.
 
